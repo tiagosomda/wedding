@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/updates/</loc>
+    <loc>/updates/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="/"
                 />
   </url><url>
-    <loc>https://example.com/updates/the-date-is-set/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/update/</loc>
-    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/updates/the-date-is-set/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>/tags/update/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
                 />
   </url>
 </urlset>

@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/pt/blog/</loc>
+    <loc>/pt/blog/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/blog/"
+                href="/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/blog/"
+                href="/pt/blog/"
                 />
   </url><url>
-    <loc>https://example.com/pt/blog/krabby_patty/</loc>
+    <loc>/pt/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/blog/krabby_patty/"
+                href="/es/blog/krabby_patty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/blog/krabby_patty/"
+                href="/pt/blog/krabby_patty/"
                 />
   </url><url>
-    <loc>https://example.com/pt/</loc>
+    <loc>/pt/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="/pt/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/recipe/</loc>
+    <loc>/pt/tags/recipe/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/recipe/"
+                href="/es/tags/recipe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/recipe/"
+                href="/pt/tags/recipe/"
                 />
   </url><url>
-    <loc>https://example.com/pt/tags/</loc>
+    <loc>/pt/tags/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="/pt/tags/"
                 />
   </url><url>
-    <loc>https://example.com/pt/categories/</loc>
+    <loc>/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="/pt/categories/"
                 />
   </url>
 </urlset>
