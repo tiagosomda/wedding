@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PriTi</title>
-    <link>/wedding/pt/</link>
-    <description>Recent content on PriTi</description>
+    <title>update on PriTi</title>
+    <link>/wedding/es/tags/update/</link>
+    <description>Recent content in update on PriTi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt</language>
-    <lastBuildDate>Sun, 02 May 2021 00:00:00 -0700</lastBuildDate><atom:link href="/wedding/pt/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 -0700</lastBuildDate><atom:link href="/wedding/es/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The date is set!</title>
-      <link>/wedding/pt/updates/the-date-is-set/</link>
+      <link>/wedding/es/updates/the-date-is-set/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 -0700</pubDate>
       
-      <guid>/wedding/pt/updates/the-date-is-set/</guid>
+      <guid>/wedding/es/updates/the-date-is-set/</guid>
       <description>We wanted to push back a few more months, but the hotel won&amp;rsquo;t let us change it anymore.
 So January 30th, 2022 we will finally be throwing a wedding party to our family and friends!</description>
     </item>

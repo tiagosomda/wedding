@@ -4,6 +4,21 @@
   <url>
     <loc>/wedding/updates/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/wedding/es/updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/wedding/pt/updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wedding/updates/"
+                />
   </url><url>
     <loc>/wedding/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
@@ -43,9 +58,39 @@
   </url><url>
     <loc>/wedding/updates/the-date-is-set/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/wedding/es/updates/the-date-is-set/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/wedding/pt/updates/the-date-is-set/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wedding/updates/the-date-is-set/"
+                />
   </url><url>
     <loc>/wedding/tags/update/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/wedding/es/tags/update/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/wedding/pt/tags/update/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wedding/tags/update/"
+                />
   </url><url>
     <loc>/wedding/categories/</loc>
     <xhtml:link

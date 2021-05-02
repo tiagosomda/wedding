@@ -12,20 +12,24 @@ hero_media = "/img/portrait.jpg"
 # Buttons
 # Add as much button as you want
 [[btn]]
-	# The url of the button
-  url = "/about"
-	# The text of the button
-  label = "Know more"
-	# Primary color
-	primary = true
+  url = "#rsvp"
+  label = 'RSVP'
+  primary = true
 
 [[btn]]
-  url = "#contact"
-  label = 'Contact me'
+	# The url of the button
+  url = "#knowmore"
+	# The text of the button
+  label = "Saiba mais"
 
+[[btn]]
+	# The url of the button
+  url = "#updates"
+	# The text of the button
+  label = "9dadis"
 +++
 
-# A theme to **express** your ideas.
-
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
-
+# Priscila & Tiago
+## A Festa de Casamento
+### Mazatlan, Mexico - Jan 30 2022
+### @ Hotel Playa Mazatlan

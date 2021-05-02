@@ -2,34 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/wedding/es/blog/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
+    <loc>/wedding/es/updates/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/blog/"
+                href="/wedding/pt/updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wedding/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/blog/"
-                />
-  </url><url>
-    <loc>/wedding/es/blog/krabby_patty/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/wedding/pt/blog/krabby_patty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/wedding/es/blog/krabby_patty/"
+                href="/wedding/es/updates/"
                 />
   </url><url>
     <loc>/wedding/es/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -46,21 +38,8 @@
                 href="/wedding/es/"
                 />
   </url><url>
-    <loc>/wedding/es/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/wedding/pt/tags/recipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/wedding/es/tags/recipe/"
-                />
-  </url><url>
     <loc>/wedding/es/tags/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -75,6 +54,42 @@
                 rel="alternate"
                 hreflang="es"
                 href="/wedding/es/tags/"
+                />
+  </url><url>
+    <loc>/wedding/es/updates/the-date-is-set/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/wedding/pt/updates/the-date-is-set/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wedding/updates/the-date-is-set/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/wedding/es/updates/the-date-is-set/"
+                />
+  </url><url>
+    <loc>/wedding/es/tags/update/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/wedding/pt/tags/update/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/wedding/tags/update/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/wedding/es/tags/update/"
                 />
   </url><url>
     <loc>/wedding/es/categories/</loc>
