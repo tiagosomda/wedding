@@ -1,102 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://example.com/blog/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/blog/krabby_patty/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/blog/krabby_patty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/blog/krabby_patty/"
-                />
-  </url>
-  
-  <url>
+    <loc>https://example.com/updates/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/"
+                hreflang="es"
+                href="https://example.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/recipe/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/recipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/recipe/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2020-06-25T00:00:00-07:00</lastmod>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/tags/"
+                hreflang="es"
+                href="https://example.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://example.com/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/about/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://example.com/updates/the-date-is-set/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/update/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://example.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/categories/"
+                hreflang="es"
+                href="https://example.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -104,5 +64,4 @@
                 href="https://example.com/categories/"
                 />
   </url>
-  
 </urlset>
