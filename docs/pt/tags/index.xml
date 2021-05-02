@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PriTi</title>
-    <link>/pt/tags/</link>
+    <link>wedding/pt/tags/</link>
     <description>Recent content in Tags on PriTi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 -0700</lastBuildDate><atom:link href="/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 -0700</lastBuildDate><atom:link href="wedding/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>recipe</title>
-      <link>/pt/tags/recipe/</link>
+      <link>wedding/pt/tags/recipe/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 -0700</pubDate>
       
-      <guid>/pt/tags/recipe/</guid>
+      <guid>wedding/pt/tags/recipe/</guid>
       <description></description>
     </item>
     

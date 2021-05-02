@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/updates/</loc>
+    <loc>wedding/updates/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>wedding/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="wedding/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/"
+                href="wedding/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="wedding/"
                 />
   </url><url>
-    <loc>/updates/the-date-is-set/</loc>
+    <loc>wedding/tags/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>/tags/update/</loc>
-    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="wedding/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/categories/"
+                href="wedding/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="wedding/tags/"
+                />
+  </url><url>
+    <loc>wedding/updates/the-date-is-set/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>wedding/tags/update/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+  </url><url>
+    <loc>wedding/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="wedding/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="wedding/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="wedding/categories/"
                 />
   </url>
 </urlset>

@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/es/blog/</loc>
+    <loc>wedding/es/blog/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/blog/"
+                href="wedding/pt/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/"
+                href="wedding/es/blog/"
                 />
   </url><url>
-    <loc>/es/blog/krabby_patty/</loc>
+    <loc>wedding/es/blog/krabby_patty/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/blog/krabby_patty/"
+                href="wedding/pt/blog/krabby_patty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/blog/krabby_patty/"
+                href="wedding/es/blog/krabby_patty/"
                 />
   </url><url>
-    <loc>/es/</loc>
+    <loc>wedding/es/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/"
+                href="wedding/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="wedding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="wedding/es/"
                 />
   </url><url>
-    <loc>/es/tags/recipe/</loc>
+    <loc>wedding/es/tags/recipe/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/recipe/"
+                href="wedding/pt/tags/recipe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/recipe/"
+                href="wedding/es/tags/recipe/"
                 />
   </url><url>
-    <loc>/es/tags/</loc>
+    <loc>wedding/es/tags/</loc>
     <lastmod>2020-06-25T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/"
+                href="wedding/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="wedding/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="wedding/es/tags/"
                 />
   </url><url>
-    <loc>/es/categories/</loc>
+    <loc>wedding/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/categories/"
+                href="wedding/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="wedding/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="wedding/es/categories/"
                 />
   </url>
 </urlset>
