@@ -12,20 +12,24 @@ hero_media = "/img/portrait.jpg"
 # Buttons
 # Add as much button as you want
 [[btn]]
-	# The url of the button
-  url = "/about"
-	# The text of the button
-  label = "Know more"
-	# Primary color
-	primary = true
-
-[[btn]]
-  url = "#contact"
+  url = "#rsvp"
   label = 'RSVP'
   primary = true
 
+[[btn]]
+	# The url of the button
+  url = "#knowmore"
+	# The text of the button
+  label = "Know more"
+
+[[btn]]
+	# The url of the button
+  url = "#updates"
+	# The text of the button
+  label = "Updates"
 +++
 
-# Tiago & Priscila
+# Priscila & Tiago
 ## The Wedding Party
 ### Mazatlan, Mexico - Jan 30th 2022
+### @ Hotel Playa Mazatlan

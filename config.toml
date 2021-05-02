@@ -34,46 +34,46 @@ favicon = '/favicon.ico'
 # darkMode = 'always'
 
 # Social parameters for contact_icons widget
-[[params.social]]
-alt = "email icon"
-icon = "/icons/email.svg"
-name = "email"
-url = "mailto:mail@example.com"
+# [[params.social]]
+# alt = "email icon"
+# icon = "/icons/email.svg"
+# name = "email"
+# url = "mailto:mail@example.com"
 
-[[params.social]]
-alt = "github icon"
-blank = true
-icon = "/icons/github.svg"
-name = "github"
-url = "https://github.com/"
+# [[params.social]]
+# alt = "github icon"
+# blank = true
+# icon = "/icons/github.svg"
+# name = "github"
+# url = "https://github.com/"
 
-[[params.social]]
-alt = "medium icon"
-blank = true
-icon = "/icons/medium.svg"
-name = "medium"
-url = "https://medium.com/"
+# [[params.social]]
+# alt = "medium icon"
+# blank = true
+# icon = "/icons/medium.svg"
+# name = "medium"
+# url = "https://medium.com/"
 
-[[params.social]]
-alt = "stack-overflow icon"
-blank = true
-icon = "/icons/stack-overflow.svg"
-name = "stack-overflow"
-url = "https://stackoverflow.com/"
+# [[params.social]]
+# alt = "stack-overflow icon"
+# blank = true
+# icon = "/icons/stack-overflow.svg"
+# name = "stack-overflow"
+# url = "https://stackoverflow.com/"
 
-[[params.social]]
-alt = "twitter icon"
-blank = true
-icon = "/icons/twitter.svg"
-name = "twitter"
-url = "https://twitter.com/"
+# [[params.social]]
+# alt = "twitter icon"
+# blank = true
+# icon = "/icons/twitter.svg"
+# name = "twitter"
+# url = "https://twitter.com/"
 
-[[params.social]]
-alt = "facebook icon"
-blank = true
-icon = "/icons/facebook.svg"
-name = "facebook"
-url = "https://facebook.com/"
+# [[params.social]]
+# alt = "facebook icon"
+# blank = true
+# icon = "/icons/facebook.svg"
+# name = "facebook"
+# url = "https://facebook.com/"
 
 # Navigation bar
 # [menu]
@@ -126,9 +126,9 @@ weight = 4
 contentDir = 'content/pt'
 languageCode = 'pt'
 languageName = 'Portugues'
-weight = 5
+weight = 4
 
-
+# Uncomment the following lines to add an spanish translation.
 # [languages.fr]
 # contentDir = 'content/fr'
 # languageCode = 'fr'
@@ -141,5 +141,3 @@ weight = 5
 # languageCode = 'it'
 # languageName = 'Italiano'
 # weight = 3
-
-# Uncomment the following lines to add an spanish translation.
