@@ -20,16 +20,16 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "#knowmore"
 	# The text of the button
-  label = "Saiba mais"
+  label = "Información"
 
 [[btn]]
 	# The url of the button
   url = "#updates"
 	# The text of the button
-  label = "9dadis"
+  label = "Novedades"
 +++
 
 # Priscila & Tiago
-## A Festa de Casamento
-### Mazatlan, Mexico - Jan 30 2022
+## La Fiesta de Bodas
+### Mazatlan, Mexico - Jan 30th 2022
 ### @ Hotel Playa Mazatlan
