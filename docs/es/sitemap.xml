@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/es/updates/</loc>
-    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/pt/updates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/updates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/updates/"
-                />
-  </url><url>
     <loc>/es/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
@@ -90,6 +72,24 @@
                 rel="alternate"
                 hreflang="es"
                 href="/es/tags/update/"
+                />
+  </url><url>
+    <loc>/es/updates/</loc>
+    <lastmod>2021-05-02T00:00:00-07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/pt/updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/updates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/updates/"
                 />
   </url><url>
     <loc>/es/categories/</loc>
