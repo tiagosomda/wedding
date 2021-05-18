@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/wedding/pt/updates/</loc>
+    <loc>/pt/updates/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/updates/"
+                href="/es/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/wedding/updates/"
+                href="/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/updates/"
+                href="/pt/updates/"
                 />
   </url><url>
-    <loc>/wedding/pt/</loc>
+    <loc>/pt/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/wedding/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/"
+                href="/pt/"
                 />
   </url><url>
-    <loc>/wedding/pt/tags/</loc>
+    <loc>/pt/tags/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/wedding/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/tags/"
+                href="/pt/tags/"
                 />
   </url><url>
-    <loc>/wedding/pt/updates/the-date-is-set/</loc>
+    <loc>/pt/updates/the-date-is-set/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/updates/the-date-is-set/"
+                href="/es/updates/the-date-is-set/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/wedding/updates/the-date-is-set/"
+                href="/updates/the-date-is-set/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/updates/the-date-is-set/"
+                href="/pt/updates/the-date-is-set/"
                 />
   </url><url>
-    <loc>/wedding/pt/tags/update/</loc>
+    <loc>/pt/tags/update/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/tags/update/"
+                href="/es/tags/update/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/wedding/tags/update/"
+                href="/tags/update/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/tags/update/"
+                href="/pt/tags/update/"
                 />
   </url><url>
-    <loc>/wedding/pt/categories/</loc>
+    <loc>/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/wedding/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/wedding/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/wedding/pt/categories/"
+                href="/pt/categories/"
                 />
   </url>
 </urlset>
