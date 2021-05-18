@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pt/</loc>
+    <loc>www.priti.family/pt/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/"
+                href="www.priti.family/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="www.priti.family/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/"
+                href="www.priti.family/pt/"
                 />
   </url><url>
-    <loc>/pt/tags/</loc>
+    <loc>www.priti.family/pt/tags/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/"
+                href="www.priti.family/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="www.priti.family/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/"
+                href="www.priti.family/pt/tags/"
                 />
   </url><url>
-    <loc>/pt/updates/the-date-is-set/</loc>
+    <loc>www.priti.family/pt/updates/the-date-is-set/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/updates/the-date-is-set/"
+                href="www.priti.family/es/updates/the-date-is-set/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/updates/the-date-is-set/"
+                href="www.priti.family/updates/the-date-is-set/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/updates/the-date-is-set/"
+                href="www.priti.family/pt/updates/the-date-is-set/"
                 />
   </url><url>
-    <loc>/pt/tags/update/</loc>
+    <loc>www.priti.family/pt/tags/update/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/tags/update/"
+                href="www.priti.family/es/tags/update/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/update/"
+                href="www.priti.family/tags/update/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/tags/update/"
+                href="www.priti.family/pt/tags/update/"
                 />
   </url><url>
-    <loc>/pt/updates/</loc>
+    <loc>www.priti.family/pt/updates/</loc>
     <lastmod>2021-05-02T00:00:00-07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/updates/"
+                href="www.priti.family/es/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/updates/"
+                href="www.priti.family/updates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/updates/"
+                href="www.priti.family/pt/updates/"
                 />
   </url><url>
-    <loc>/pt/categories/</loc>
+    <loc>www.priti.family/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="/es/categories/"
+                href="www.priti.family/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="www.priti.family/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/pt/categories/"
+                href="www.priti.family/pt/categories/"
                 />
   </url>
 </urlset>
