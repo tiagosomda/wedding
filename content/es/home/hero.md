@@ -12,7 +12,7 @@ hero_media = "/img/portrait.jpg"
 # Buttons
 # Add as much button as you want
 [[btn]]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSe7LEAdrPYciPfgyCNUU79-8Nz7PnGJLAG8_spGEN_NGLtE_g/viewform?usp=sf_link"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSf5fliSgdpsjK56gQ12rrYFi8QvZJOWxhgxYRZkHj8jwzg4_g/viewform?usp=sf_link"
   label = 'RSVP'
   primary = true
 
@@ -20,10 +20,10 @@ hero_media = "/img/portrait.jpg"
 	# The url of the button
   url = "#updates"
 	# The text of the button
-  label = "Updates"
+  label = "Novedades"
 +++
 
 # Priscila & Tiago
-## The Wedding Party
-### Mazatlan, Mexico - Jan 30th 2022
+## La Fiesta
+### Mazatlan, Mexico -  30 Enero 2022
 ### @ Hotel Playa Mazatlan

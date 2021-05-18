@@ -1,11 +1,11 @@
 +++
-title = "The date is set!"
-subtitle = "After 2 years, we are finally throwing our wedding party!"
+title = "La fecha es oficial!"
+subtitle = "Despues de 2 años de casado, vamos a finalmente celebrar nuestro matrimonio!"
 tags = ['update']
 date = 2021-05-02
 
 # For description meta tag
-description = "Recipe of the legendary Krabby Patty."
+description = " Ya es oficial!"
 
 # Comment next line and the default banner wil be used.
 banner = 'img/date-is-set.png'
@@ -14,7 +14,5 @@ banner = 'img/date-is-set.png'
 
 ![](/img/date-is-set.png)
 
-We wanted to push back a few more months, but the hotel won't let us change it anymore.  
-So January 30th, 2022 we will finally be throwing a wedding party to our family and friends!
-
+Ya tenemos fecha oficial: Domingo 30 de Enero del 2022. Y ya no va a cambiar, porque el hotel ya no nos deja.  
 

@@ -12,7 +12,7 @@ hero_media = "/img/portrait.jpg"
 # Buttons
 # Add as much button as you want
 [[btn]]
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSe7LEAdrPYciPfgyCNUU79-8Nz7PnGJLAG8_spGEN_NGLtE_g/viewform?usp=sf_link"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSeqpf6huh-xMQ4O5u6htNEEhucsyNPVE5b-9ZWwsqwQZQfquw/viewform?usp=sf_link"
   label = 'RSVP'
   primary = true
 
