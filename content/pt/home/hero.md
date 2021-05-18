@@ -1,5 +1,5 @@
 +++
-widget = "hero"
+widget = "hero-inverted"
 # Order that this section will appear.
 weight = 10
 
@@ -12,24 +12,18 @@ hero_media = "/img/portrait.jpg"
 # Buttons
 # Add as much button as you want
 [[btn]]
-  url = "#rsvp"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSe7LEAdrPYciPfgyCNUU79-8Nz7PnGJLAG8_spGEN_NGLtE_g/viewform?usp=sf_link"
   label = 'RSVP'
   primary = true
 
 [[btn]]
 	# The url of the button
-  url = "#knowmore"
-	# The text of the button
-  label = "Información"
-
-[[btn]]
-	# The url of the button
   url = "#updates"
 	# The text of the button
-  label = "Novedades"
+  label = "Updates"
 +++
 
 # Priscila & Tiago
-## La Fiesta de Bodas
+## The Wedding Party
 ### Mazatlan, Mexico - Jan 30th 2022
 ### @ Hotel Playa Mazatlan
