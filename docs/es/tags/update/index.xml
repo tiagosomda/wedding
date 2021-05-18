@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>update on PriTi</title>
-    <link>www.priti.family/es/tags/update/</link>
+    <link>/es/tags/update/</link>
     <description>Recent content in update on PriTi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 02 May 2021 00:00:00 -0700</lastBuildDate><atom:link href="www.priti.family/es/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 00:00:00 -0700</lastBuildDate><atom:link href="/es/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The date is set!</title>
-      <link>www.priti.family/es/updates/the-date-is-set/</link>
+      <link>/es/updates/the-date-is-set/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 -0700</pubDate>
       
-      <guid>www.priti.family/es/updates/the-date-is-set/</guid>
+      <guid>/es/updates/the-date-is-set/</guid>
       <description>We wanted to push back a few more months, but the hotel won&amp;rsquo;t let us change it anymore.
 So January 30th, 2022 we will finally be throwing a wedding party to our family and friends!</description>
     </item>
